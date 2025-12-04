@@ -20,9 +20,7 @@ I'm a BE Graduate in Artificial Intelligence & Data Science, passionate about tr
 
 ---
 
-## 📌 Goals  
-- Become a Data Analyst  
-- Build a strong portfolio  
+## 📌 Goal 
 - Learn more about data storytelling & business insights
 
 ---
